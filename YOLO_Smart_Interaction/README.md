@@ -18,5 +18,4 @@ Guests struggle to identify room items. This AI detects furniture (Chair, Sofa, 
 ## Results
 - **Training**: mAP@0.5 = 0.995 
 - **FPS**: ~25-30 on CPU (inference 31.9ms-39.1ms)
-- **Demo**: [https://github.com/terausername/YOLO_Smart_Interaction/blob/main/demo.mp4] (Replace with your link)
-t")
+
