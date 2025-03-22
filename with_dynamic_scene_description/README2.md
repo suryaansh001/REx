@@ -7,8 +7,6 @@ This project combines real-time object detection (YOLO), scene captioning (BLIP)
 - Generates scene descriptions (e.g., "a room with a table").
 - Responds intelligently with dynamic messages (e.g., "I see a chair for the first time!" or "Careful! A sofa is nearby.").
 
-## Why I Made It
-I wanted a fun, interactive tool to explore my surroundings—something that not only detects stuff but also talks to me like a friend!
 
 ## How It Works
 - **YOLO**: Detects objects in real-time from webcam feed.
